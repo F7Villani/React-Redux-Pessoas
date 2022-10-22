@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import PessoasLista from './PessoasLista';
 
 const App = () => {
   return (
     <div>
-      App
+      <PessoasLista/>
     </div>
   )
 }
